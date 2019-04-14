@@ -11,12 +11,12 @@ The meaning of each column is as follows:<br/>
 3     : Label of the app which the detected overlay is in, 0 represents benign, 1 represents malicious<br/>
 4-5   : X and Y coordinates of the upper left corner of the detected overlay<br/>
 6-7   : Width and Height of the detected overlay<br/>
-8     : Total number of detected overlay in one task<br/>
-9-39  : Flags of detected overlay<br/>
-40-44 : Gravity of detected overlay<br/>
-45-47 : Format of detected overlay<br/>
-48-57 : Type of detected overlay<br/>
-58    : Alpha value of detected overlay<br/>
+8     : Total number of detected overlays in one task<br/>
+9-39  : Flags of the detected overlay<br/>
+40-44 : Gravity of the detected overlay<br/>
+45-47 : Format of the detected overlay<br/>
+48-57 : Type of the detected overlay<br/>
+58    : Alpha value of the detected overlay<br/>
 59    : Whether the detected overlay is opaque, 0 represents false, 1 represents true<br/>
 60    : Whether the detected overlay has a background, 0 represents false, 1 represents true<br/>
 61    : Whether the app which the detected overlay is in requested for root, 0 represents false, 1 represents true<br/>

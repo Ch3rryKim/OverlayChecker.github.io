@@ -3,7 +3,7 @@
 This is a repository for dataset of OverlayChecker.<br/>
 For some limitations, we partially disclose our dataset in [link](https://share.weiyun.com/5VjkGAI).<br/>
 
-In file in the link above, there are 64 columns.<br/>
+In file at the link above, there are 64 columns.<br/>
 The meaning of each column is as follows:<br/>
 
 1     : Index of each row<br/>
